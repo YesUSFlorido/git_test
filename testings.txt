@@ -1,0 +1,17 @@
+what the frick are personal access tokens???
+apparently tokens are used so you dont have to use your password
+or something...
+
+in github there are two types of personal access tokens:
+"fined-grained" personal access tokens and the personal access token
+"classic"
+
+github tells me to use the fine-grained; those seem more secure.
+
+--------------------------------------------------------------------
+
+ok after a bit of reading i think tokens are bit like ssh keys but
+they dont work the same way; essentially i think tokens are a tool to
+better manage your security... i guess.
+
+:D
